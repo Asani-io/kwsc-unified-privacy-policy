@@ -2,7 +2,7 @@
 **KW&SC Unified**  
 **Last updated: 17 December 2025**
 
-KW&SC Unified (“**we**”, “**us**”, or “**our**”) operates the **KW&SC Unified** mobile application (“**App**”).  
+KW&SC Unified ("**we**", "**us**", or "**our**") operates the **KW&SC Unified** mobile application ("**App**").  
 This Privacy Policy explains how we collect, use, store, and protect your information when you use the App.
 
 This policy applies to all users of the App on Android and iOS platforms.
@@ -121,6 +121,14 @@ We retain your data only as long as needed to:
 
 When data is no longer required, it is securely deleted or anonymized.
 
+### 6.1 Account Deletion
+When you request account deletion, your account undergoes a two-stage process:
+
+1. **Soft deletion** – Your account is immediately deactivated and marked for deletion  
+2. **Permanent deletion** – After 90 days, all account data is permanently removed from our systems  
+
+During the 90-day grace period, you may request account restoration through official support channels. After permanent deletion, recovery is not possible except for data we are legally required to retain for compliance purposes.
+
 ---
 
 ## 7. User Rights
@@ -135,7 +143,7 @@ Requests can be made through official support channels.
 
 ---
 
-## 8. Children’s Privacy
+## 8. Children's Privacy
 The App is **not intended for users under 13 years of age**.  
 We do not knowingly collect data from children.  
 If such data is discovered, it will be deleted promptly.
@@ -169,7 +177,7 @@ Our data handling follows:
 
 ## 11. Changes to This Privacy Policy
 We may update this Privacy Policy periodically.  
-When updated, the “**Last updated**” date will be revised.  
+When updated, the "**Last updated**" date will be revised.  
 Continued use of the App implies acceptance of updated terms.
 
 ---
