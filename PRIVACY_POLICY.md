@@ -1,6 +1,5 @@
 # Privacy Policy  
 **KW&SC Unified**  
-**Last updated: 17 December 2025**
 
 KW&SC Unified ("**we**", "**us**", or "**our**") operates the **KW&SC Unified** mobile application ("**App**").  
 This Privacy Policy explains how we collect, use, store, and protect your information when you use the App.
